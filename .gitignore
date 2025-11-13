@@ -1,0 +1,15 @@
+
+# Virtual Environment
+emavenv/
+
+# Application Logs
+logs/
+*.log
+run_log.txt
+
+# Image and Signal Logs
+image_logs/
+signal_logs/
+
+# OLD FILES
+_old/
